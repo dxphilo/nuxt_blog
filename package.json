@@ -1,0 +1,19 @@
+{
+  "name": "nuxt_blog",
+  "version": "1.0.0",
+  "description": "blog with nuxt content",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "nuxt": "3.6.5"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.7.2",
+    "@nuxtjs/tailwindcss": "^6.8.0"
+  }
+}
