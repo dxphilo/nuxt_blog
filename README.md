@@ -3,7 +3,7 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 
-Check the website at [Nuxt Blog](https://nuxt-blog-nine-zeta.vercel.app/) to learn more.
+[Check the website](https://nuxt-blog-nine-zeta.vercel.app)
 
 ## Setup
 
