@@ -2,6 +2,8 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+Check out the article guide [here](https://levelup.gitconnected.com/building-a-markdown-powered-blog-with-nuxt-e44c6e241a0)
+
 
 [Check the website](https://nuxt-blog-nine-zeta.vercel.app)
 
